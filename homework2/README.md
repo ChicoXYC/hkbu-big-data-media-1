@@ -15,3 +15,7 @@ Starting page: http://www.imdb.com/list/ls058982125/
 ## Data volume
 
 * 100 rows (movies)
+
+## License
+
+CC 4.0
